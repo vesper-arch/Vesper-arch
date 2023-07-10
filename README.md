@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PythonRail
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ please help me fix the circular import errors aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- 💞️ i have brain damage~
 - 📫 How to reach me ej1mahoney@gmail.com
 
 <!---
