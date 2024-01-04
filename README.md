@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vesper-Word-arch
+- 👋 Hi, I’m @Vesper-arch
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ i have brain damage~
